@@ -46,3 +46,5 @@ Os parênteses "()" representam Métodos;
 Método:
 _Procedimento
 _Função
+
+ctrl + shift + " abre o terminal no C#
