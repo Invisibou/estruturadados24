@@ -48,3 +48,13 @@ _Procedimento
 _Função
 
 ctrl + shift + " abre o terminal no C#
+
+git status
+
+git add .
+
+git commit =m "Digite sua mensagem"
+
+git push origin main
+
+Tudo certo :)
