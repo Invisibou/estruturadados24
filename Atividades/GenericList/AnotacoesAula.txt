@@ -1,0 +1,5 @@
+A principal diferença entre o ArrayList e o List é que o primeiro NÃO É FORTEMENTE TIPADO.
+
+Em um futuro próximo, de acordo com o slogan de empresas economicas mundiais, "Você não será dono de nada, mas será feliz". Um exemplo disso, é o novo
+PS5 pro, agora a entrada de disco vai ser vendido a parte, portanto, você não será dono dos seus jogos, irá alugar somente.
+
