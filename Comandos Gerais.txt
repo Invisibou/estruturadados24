@@ -5,3 +5,6 @@ ls (Para listar o que tem dentro da pasta)
 dotnet new console -n "Nome que você desejar" (em PascalCase, preferencialmente)
 cd .\NomeDaPasta\ (Para ir até a pasta)
 code . (Para abrir o VisualCode no seu dispositivo)
+
+
+

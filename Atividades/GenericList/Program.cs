@@ -1,4 +1,5 @@
 ﻿using GenericList;
+
 List<double> numbers = new List<double>();
 
 do
@@ -21,6 +22,8 @@ Person p1 = new Person();
 p1.Name = "Joaquim";
 p1.Age = 12;
 p1.Country = CountryEnum.PY;
+
+
 people.Add(p1);
 
 p1.Name = "Joaquim José da Silva Xavier";

@@ -37,9 +37,9 @@ dotnet watch run
 //-----------------//------------------//--------------//---------------//-------------
 TAD = Tipo Abstrato de Dados;
 
-PascalCae //Padrão para Atributo;
+PascalCase //Padrão para Atributo, Nome de classe sempre em PascalCase, sem caracteres especiais e em inglês;
 camelCase //Padrão para Parametro;
-_snake_case //Padrão que você não pegou;
+_snake_case //Padrão que você não pegou, , _snake_case para atributos Privados de classe;
 
 As chaves "{}" servem para limitar o Escopo;
 Os parênteses "()" representam Métodos;
@@ -58,3 +58,14 @@ git commit =m "Digite sua mensagem"
 git push origin main
 
 Tudo certo :)
+
+
+
+//--------------//--------------//---------------//-------------//---------------//-------
+*PILHA*
+	Fila = Fifo;
+	Pilh = Lifo;
+	PoP = Retorna o que tem no topo da pilha e tira da estrutura;
+	Push = Coloca, literalmente empurra;
+	Peek = Retorna e retira da estrutura;
+	
