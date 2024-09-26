@@ -6,5 +6,6 @@ dotnet new console -n "Nome que você desejar" (em PascalCase, preferencialmente
 cd .\NomeDaPasta\ (Para ir até a pasta)
 code . (Para abrir o VisualCode no seu dispositivo)
 
+----------------//-----------------------//----------------------//---------------------//----------------------//
 
-
+os "I" no laço for, pode representar Índice, por isso a convenção
