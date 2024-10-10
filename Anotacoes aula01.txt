@@ -35,7 +35,8 @@ dotnet run
 dotnet watch run
 
 //-----------------//------------------//--------------//---------------//-------------
-TAD = Tipo Abstrato de Dados;
+TAD = Tipo Abstrato de Dados (Objeto, classe...)
+Tipo primitivo: Inteiro, Boleano, Char, float, String...
 
 PascalCase //Padrão para Atributo, Nome de classe sempre em PascalCase, sem caracteres especiais e em inglês;
 camelCase //Padrão para Parametro;
@@ -64,7 +65,7 @@ Tudo certo :)
 //--------------//--------------//---------------//-------------//---------------//-------
 *PILHA*
 	Fila = Fifo;
-	Pilh = Lifo;
+	Pilha = Lifo;
 	PoP = Retorna o que tem no topo da pilha e tira da estrutura;
 	Push = Coloca, literalmente empurra;
 	Peek = Retorna e retira da estrutura;
