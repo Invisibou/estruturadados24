@@ -9,3 +9,52 @@ code . (Para abrir o VisualCode no seu dispositivo)
 ----------------//-----------------------//----------------------//---------------------//----------------------//
 
 os "I" no laço for, pode representar Índice, por isso a convenção
+
+---------------//-----------------------//-----------------------//-------------------//----------------------//--------
+
+Algorítmos de Ordenação: Multiplas Variáveis, diferentes formas de ordenar.
+
+Descrição Narrativa: Aberta a interpretação, qualquer pessoa pode descrever como quiser.
+Abaixo temos um exemplo de algoritmo usando a descrição narrativa:
+
+Início
+  Passo 1: Obter os valores de n1,n2,n3;
+  Passo 2: Somar os valores do passo 1;
+  Passo 3: Dividir o resultado obtido no Passo 2 por 3;
+  Passo 4: Se o resultado do Passo 3 for maior ou igual a 6 então escreva
+  “Parabéns você foi aprovado”, senão, escreva “Infelizmente você ficou de exame”
+  e vá para o fim do programa
+Fim
+
+--------------------------
+
+Fluxograma, já conhecido, pode ser interpretado como um "mapa mental", é o meio termo entre a Descrição Narrativa e o Pseudocódigo
+
+--------------------------
+
+Linguagem Algoritma (Pseudocódigo ou Portugol)
+algoritmo “CalcularMedia”
+var
+  n1,n2,n3,media :real;
+
+inicio
+  leia(n1,n2,n3);
+    media← (n1+n2+n3)/3;
+
+  se  media>=6 entao
+     escreva(“Parabéns você foi aprovado”);
+  senão
+          escreva(“Infelizmente você ficou de exame”);
+  Fimse
+fimalgoritmo
+
+------------------------------
+
+Algorítmo de Ordenação: É um algoritmo que coloca os elementos de uma dada sequência em uma certa ordem. O programador ordena de acordo coma necessidade pessoal.
+
+Existem alguns algoritmos de ordenação padronizados, como Bubble Sort, Selection Sort, Quick Sort e Insertion Sort.
+
+Bubble Sort: Simples. Forma de ordenação na qual compara o elemento com o seu posterior (i+1), portanto, compara o primeiro índice com o segundo, que compara com o 
+terceiro e assim por diante.
+
+Por causa dessa forma de execução, o vetor terá que ser percorrido quantas vezes que for necessária, tornando o algoritmo ineficiente para listas muito grandes.
