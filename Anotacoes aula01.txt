@@ -70,3 +70,16 @@ Tudo certo :)
 	Push = Coloca, literalmente empurra;
 	Peek = Retorna e retira da estrutura;
 	
+//--------------//---------------//--------------//-------------------//------------------//-------
+
+ÁRVORES
+
+Raíz é origem, não tem ninguém acima dela.
+As ramificações podemm ser chamada de nós, galhos ou ramos;
+No terceiro nível temos nós filhos, que são filhos do nível anterior, também podendo ter filhos, netos, bisnetos, como uma árvore genealógica.
+Folha é onde acaba, é o último nível, não irá brotar nada além da folha.
+A classificação de como a árvore pode ser dividida, pode ser classificada como: Bi para 2 ramificações, Tri para 3, Ena para Tantos quantos forem.
+Defina o nível observando quantos Pais que tem na árvore, então se um filho tiver um pai, esse pai tiver um pai, esse pai tiver um pai e esse pai não tiver um pai, 
+é de terceiro nível.
+
+Árvores podem ser divido por tipos, tanto como primitivo como criados, inteiro, pessoas, float.
