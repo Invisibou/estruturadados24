@@ -83,3 +83,9 @@ Defina o nível observando quantos Pais que tem na árvore, então se um filho t
 é de terceiro nível.
 
 Árvores podem ser divido por tipos, tanto como primitivo como criados, inteiro, pessoas, float.
+
+//-------------//--------------//--------------//----------------//-----------------//--------------
+
+Pre Order = Primeiro a visitar a raiz
+In Order = Visita a raiz no meio
+On Order/ Post Order = visita a raiz por último
