@@ -58,3 +58,14 @@ Bubble Sort: Simples. Forma de ordenação na qual compara o elemento com o seu 
 terceiro e assim por diante.
 
 Por causa dessa forma de execução, o vetor terá que ser percorrido quantas vezes que for necessária, tornando o algoritmo ineficiente para listas muito grandes.
+
+------------------------------------------------------------------------------
+
+git status
+git add .  --> Para adicionar arquivos ao rastreio
+git commit -m "Mensagem do Commit"
+git checkout -b "NomeNovaBranch"  --> Trocar e criar branch
+git checkout NomeBranch		--> Trocar para branch exist
+git pull origin nomebranch
+git push origin nomebranch
+git remote -v	--> Mostrar os repo remotos
